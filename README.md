@@ -34,6 +34,8 @@ The final model is not extremely strong, but its adequate F1 score ensures that 
 
 ## Sample Outputs
 
+Here are two key moments from the analysis:
+
 ![F1 Score Comparison](project-08-screenshot-1.png)  
 *F1 scores on validation data across three classifiers and three training strategies. The random forest classifier performed best overall, especially after upsampling.*
 
